@@ -36,8 +36,7 @@ networks:
   mumbai:
     eth_usd_price_feed: '0x0715A7794a1dc8e42615F059dD6e406A6594651A'
   binance:
-    # link_token: ??
-    eth_usd_price_feed: '0x9ef1B8c0E4F7dc8bF5719Ea496883DC6401d5b2e'
+    link_token: '0x84b9B910527Ad5C03A9Ca831909E21e236EA7b06'
   binance-fork:
     eth_usd_price_feed: '0x9ef1B8c0E4F7dc8bF5719Ea496883DC6401d5b2e'
   mainnet-fork:
