@@ -1,11 +1,3 @@
-1. We didn't upload an impage to IPFS ourselves 
-2. Why is IPFS decentralized?
-3. Anyone can mint an NFT here - not verifiably scarce or random
-
-
-
-> Update: You should use `ipfs://` instead of `https://ipfs.io/` for your tokenURI
-
 # nft-mix
 
 <br/>
